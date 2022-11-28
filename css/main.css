@@ -1,0 +1,24 @@
+/* p, h2 {
+  color: #581f1f;
+  width: 100px;
+  height: 100px ;
+  border: 1px dashed black;
+  border-radius: 50%;
+} */
+#red {
+  background-color: #581f1f;
+}
+.salom {
+  color: aqua;
+}
+h1 {
+  display: inline-block;
+}
+span {
+  display: block;
+  width: 100px;
+  height: 100px;
+}
+li {
+  list-style: none;
+}
